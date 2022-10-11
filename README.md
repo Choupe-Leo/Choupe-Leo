@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Shupu Liu
 - 👀 I was graduated from Jean-Jaurès University since 2021
 - 🌱 Exploring JavaScript and React
-- 📫 Reach me : <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+- 📫 Reach me : <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
