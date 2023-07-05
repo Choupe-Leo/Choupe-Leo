@@ -6,7 +6,7 @@
 
 - 👋 I’m Shupu Liu
 - 👨‍🎓 I was graduated from Jean-Jaurès University since 2021
-- 🌱 Exploring JavaScript and React
+- 🌱 Exploring JavaScript and Vue.js
 - 💻 Looking for a junior front-end developer job
 - 📫 Reach me : <a href="https://www.linkedin.com/in/shupu-liu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
